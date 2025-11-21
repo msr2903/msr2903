@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Michael and I'm a Digital Business and Innovation student at Tokyo International University</h2>
+<h2 align="left">Hi 👋! My name is Michael! Welcome to my Github!/h2>
 
 ###
 
